@@ -1,0 +1,352 @@
+,Rank,Rating,Team
+0,1,94.73,Villanova
+1,2,93.65,Virginia
+2,3,93.35,Duke
+3,4,92.11,Michigan St.
+4,5,92.08,Purdue
+5,6,91.68,Kansas
+6,7,91.39,Cincinnati
+7,8,91.02,North Carolina
+8,9,89.98,West Virginia
+9,10,89.77,Gonzaga
+10,11,88.92,Michigan
+11,12,88.62,Xavier-Ohio
+12,13,88.34,Texas Tech
+13,14,88.15,Kentucky
+14,15,87.92,Wichita St.
+15,16,87.73,Arizona
+16,17,86.74,Tennessee
+17,18,86.61,Florida
+18,19,86.41,TCU
+19,20,86.17,Houston
+20,21,85.96,Creighton
+21,22,85.93,Ohio St.
+22,23,85.82,Louisville
+23,24,85.56,Clemson
+24,25,85.37,Notre Dame
+25,26,85.37,Seton Hall
+26,27,85.1,Texas A&M;
+27,28,85.1,Butler
+28,29,84.99,Texas
+29,30,84.97,Baylor
+30,31,84.84,Arkansas
+31,32,84.8,Miami FL
+32,33,84.76,Auburn
+33,34,84.52,Florida St.
+34,35,84.37,Southern California
+35,36,84.35,Oklahoma
+36,37,84.33,Virginia Tech
+37,38,84.05,Penn St.
+38,39,83.95,Nevada
+39,40,83.95,Maryland
+40,41,83.94,Kansas St.
+41,42,83.89,St. Mary's
+42,43,83.73,Missouri
+43,44,83.67,UCLA
+44,45,83.43,Rhode Island
+45,46,82.95,Alabama
+46,47,82.95,Oklahoma St.
+47,48,82.63,North Carolina St.
+48,49,82.57,Arizona St.
+49,50,82.51,Syracuse
+50,51,82.47,Marquette
+51,52,82.47,San Diego St.
+52,53,82.13,Davidson
+53,54,82.03,Oregon
+54,55,82.02,Providence
+55,56,81.56,Wisconsin
+56,57,81.25,Utah
+57,58,81.17,Nebraska
+58,59,81.1,Georgia
+59,60,81.01,St. Bonaventure
+60,61,80.95,Boise St.
+61,62,80.75,Loyola-Chicago
+62,63,80.74,SMU
+63,64,80.59,Middle Tennessee
+64,65,80.47,Mississippi St.
+65,66,80.44,Indiana
+66,67,80.37,New Mexico St.
+67,68,80.23,St. John's
+68,69,80.15,BYU
+69,70,80.11,LSU
+70,71,80.07,Northwestern
+71,72,79.82,South Carolina
+72,73,79.65,Buffalo
+73,74,79.57,Old Dominion
+74,75,79.5,Boston College
+75,76,79.41,Western Kentucky
+76,77,79.39,Iowa
+77,78,79.13,Vanderbilt
+78,79,79.12,Stanford
+79,80,78.79,Iowa St.
+80,81,78.73,South Dakota St.
+81,82,78.67,Murray St.
+82,83,78.62,Vermont
+83,84,78.59,Louisiana-Lafayette
+84,85,78.41,Temple
+85,86,78.38,Fresno St.
+86,87,78.34,Minnesota
+87,88,78.32,Illinois
+88,89,78.31,South Dakota
+89,90,78.29,Wake Forest
+90,91,77.8,Bucknell
+91,92,77.54,Oregon St.
+92,93,77.49,Central Florida(UCF)
+93,94,77.49,Washington
+94,95,77.38,Georgetown
+95,96,77.3,Belmont
+96,97,77.29,Colorado
+97,98,77.02,Montana
+98,99,76.97,Mississippi
+99,100,76.89,Georgia Tech
+100,101,76.77,Tulsa
+101,102,76.77,St. Joseph's-Pa.
+102,103,76.69,North Carolina Greensboro
+103,104,76.65,Northeastern
+104,105,76.58,Northern Kentucky
+105,106,76.42,East Tennessee St.(ETS
+106,107,76.34,Nevada Las Vegas
+107,108,76.33,DePaul
+108,109,76.18,New Mexico
+109,110,76.15,Georgia St.
+110,111,76.07,Furman
+111,112,75.75,College of Charleston
+112,113,75.64,Grand Canyon
+113,114,75.64,Northern Iowa
+114,115,75.57,Virginia Commonwealth
+115,116,75.47,Utah Valley
+116,117,75.42,Toledo
+117,118,75.37,Pennsylvania
+118,119,75.35,Stephen F. Austin
+119,120,75.34,UAB
+120,121,75.2,Rutgers
+121,122,75.13,Wyoming
+122,123,75.07,Texas-Arlington
+123,124,75.01,Missouri St.
+124,125,75.0,Marshall
+125,126,75.0,Iona College
+126,127,74.63,Harvard
+127,128,74.42,Connecticut
+128,129,74.3,Florida Gulf Coast
+129,130,74.16,Dayton
+130,131,74.15,San Diego
+131,132,74.07,Memphis
+132,133,73.91,Wright St.
+133,134,73.66,San Francisco
+134,135,73.66,Utah St.
+135,136,73.64,St. Louis
+136,137,73.64,Illinois St.
+137,138,73.56,La Salle
+138,139,73.4,Eastern Michigan
+139,140,73.39,Towson
+140,141,73.31,UC Davis
+141,142,73.31,Mercer
+142,143,73.31,Rider
+143,144,73.26,UC Santa Barbara
+144,145,73.15,Bradley
+145,146,73.11,Northern Colorado
+146,147,73.1,Canisius
+147,148,73.01,Hofstra
+148,149,73.01,Southern Illinois
+149,150,72.99,Valparaiso
+150,151,72.87,Georgia Southern
+151,152,72.83,Albany
+152,153,72.79,UC Irvine
+153,154,72.6,Idaho
+154,155,72.6,Louisiana Tech
+155,156,72.6,Richmond
+156,157,72.36,Jacksonville St.
+157,158,72.35,Wofford
+158,159,72.31,Indiana St.
+159,160,72.29,Tulane
+160,161,72.24,William & Mary
+161,162,72.17,Oakland-Mich.
+162,163,72.16,Evansville
+163,164,71.96,Eastern Washington
+164,165,71.94,Princeton
+165,166,71.88,Monmouth-NJ
+166,167,71.78,Lipscomb
+167,168,71.72,Ball St.
+168,169,71.7,Winthrop
+169,170,71.66,Central Michigan
+170,171,71.61,Fort Wayne(IPFW)
+171,172,71.51,CS Fullerton
+172,173,71.47,Washington St.
+173,174,71.43,Yale
+174,175,71.39,North Dakota St.
+175,176,71.27,George Washington
+176,177,71.0,Weber St.
+177,178,71.0,Western Michigan
+178,179,70.92,Troy
+179,180,70.82,Pacific
+180,181,70.78,Drake
+181,182,70.61,Portland St.
+182,183,70.41,Ohio
+183,184,70.35,Massachusetts
+184,185,70.28,UTSA
+185,186,70.1,Pittsburgh
+186,187,70.02,Kent St.
+187,188,70.02,North Carolina Asheville
+188,189,69.95,UMBC
+189,190,69.89,Liberty
+190,191,69.84,Radford
+191,192,69.8,Duquesne
+192,193,69.8,George Mason
+193,194,69.71,Wagner
+194,195,69.4,Miami-Ohio
+195,196,69.37,Hawai'i
+196,197,69.37,Niagara
+197,198,69.22,Fairfield
+198,199,69.16,Long Beach St.
+199,200,69.1,Colgate
+200,201,69.04,Manhattan
+201,202,68.93,Seattle
+202,203,68.93,St. Peter's
+203,204,68.9,Milwaukee
+204,205,68.89,California
+205,206,68.88,Colorado St.
+206,207,68.87,SE Louisiana
+207,208,68.79,Illinois-Chicago
+208,209,68.74,Coastal Carolina
+209,210,68.68,Denver
+210,211,68.6,North Texas
+211,212,68.6,Lehigh
+212,213,68.51,Stony Brook-NY
+213,214,68.49,Nicholls St.
+214,215,68.28,St. Francis-Pa.
+215,216,68.28,Tennessee St.
+216,217,68.22,Lamar
+217,218,68.15,Columbia
+218,219,68.14,Appalachian St.
+219,220,68.12,Austin Peay
+220,221,68.06,Sam Houston St.
+221,222,67.88,Navy
+222,223,67.86,North Carolina Wilmington
+223,224,67.77,Elon
+224,225,67.68,Akron
+225,226,67.66,Boston U.
+226,227,67.57,Bowling Green
+227,228,67.55,Tennessee Tech
+228,229,67.4,Texas St.
+229,230,67.35,Louisiana-Monroe
+230,231,67.35,South Alabama
+231,232,67.35,James Madison
+232,233,67.34,CS Bakersfield
+233,234,67.29,Loyola Marymount
+234,235,67.24,Oral Roberts
+235,236,67.17,Central Arkansas
+236,237,67.15,Southern Miss
+237,238,67.1,Delaware
+238,239,67.01,Northern Illinois
+239,240,66.99,Air Force
+240,241,66.77,Drexel
+241,242,66.7,Texas Southern
+242,243,66.44,UTEP
+243,244,66.43,Campbell
+244,245,66.37,Mount St. Mary's
+245,246,66.17,Santa Clara
+246,247,66.14,Pepperdine
+247,248,65.94,Hartford
+248,249,65.9,Fla. International
+249,250,65.86,Green Bay
+250,251,65.84,Cornell
+251,252,65.8,Army West Point
+252,253,65.7,Robert Morris
+253,254,65.58,Florida Atlantic
+254,255,65.57,High Point
+255,256,65.52,South Florida
+256,257,65.51,Long Island U.(LIU)
+257,258,65.46,Fordham
+258,259,65.44,Eastern Illinois
+259,260,65.38,North Dakota
+260,261,65.37,Hampton
+261,262,65.24,Idaho St.
+262,263,65.21,Brown
+263,264,65.0,Gardner-Webb
+264,265,64.98,NJIT(New Jersey Tech)
+265,266,64.96,SE Missouri St.(SEMO)
+266,267,64.96,New Orleans
+267,268,64.93,Holy Cross
+268,269,64.91,Portland
+269,270,64.86,Arkansas St.
+270,271,64.76,Charleston Southern
+271,272,64.58,Omaha(Neb.-Omaha)
+272,273,64.58,UTRGV
+273,274,64.54,New Hampshire
+274,275,64.48,Fairleigh Dickinson
+275,276,64.43,Abilene Christian
+276,277,64.38,Quinnipiac
+277,278,64.37,Montana St.
+278,279,64.33,Eastern Kentucky
+279,280,64.31,Siena
+280,281,64.29,Samford
+281,282,64.24,Southern Utah
+282,283,64.17,IUPUI
+283,284,64.13,Morehead St.
+284,285,64.08,North Florida(UNF)
+285,286,63.97,UC Riverside
+286,287,63.89,East Carolina
+287,288,63.88,Tennessee-Martin
+288,289,63.87,Dartmouth
+289,290,63.81,Cleveland St.
+290,291,63.58,Lafayette
+291,292,63.58,San Jose St.
+292,293,63.5,Little Rock
+293,294,63.44,Prairie View A&M;
+294,295,63.39,North Carolina Central
+295,296,63.37,Chattanooga
+296,297,63.33,UMass Lowell
+297,298,63.24,Sacramento St.
+298,299,63.03,Texas A&M-CorpusChristi;
+299,300,63.01,Western Illinois
+300,301,62.97,Rice
+301,302,62.89,Charlotte
+302,303,62.85,Kennesaw St.
+303,304,62.84,Kansas City(UMKC)
+304,305,62.7,Binghamton-NY
+305,306,62.54,Western Carolina
+306,307,62.39,Loyola-Maryland
+307,308,62.32,Sacred Heart
+308,309,62.06,Bethune-Cookman
+309,310,62.05,Detroit Mercy
+310,311,61.9,Central Connecticut St.
+311,312,61.85,McNeese St.
+312,313,61.84,North Carolina A&T;
+313,314,61.81,Stetson
+314,315,61.74,Norfolk St.
+315,316,61.66,Cal Poly-SLO
+316,317,61.63,Marist
+317,318,61.41,Jacksonville
+318,319,61.34,St. Francis-NY
+319,320,61.28,SIU-Edwardsville
+320,321,61.14,The Citadel
+321,322,61.09,Youngstown St.
+322,323,60.96,Grambling St.
+323,324,60.7,Southern
+324,325,60.41,American U.
+325,326,60.35,CS Northridge
+326,327,59.86,Savannah St.
+327,328,59.65,Morgan St.
+328,329,59.4,Ark.-Pine Bluff
+329,330,59.03,Houston Baptist
+330,331,58.87,Howard
+331,332,58.73,USC Upstate
+332,333,58.69,Northern Arizona
+333,334,58.6,VMI
+334,335,58.2,Maine
+335,336,58.01,Jackson St.
+336,337,57.76,Presbyterian College
+337,338,57.54,Alcorn St.
+338,339,57.12,Incarnate Word
+339,340,56.7,Bryant
+340,341,56.52,Florida A&M;
+341,342,56.52,Alabama St.
+342,343,56.47,Longwood
+343,344,56.33,SC St.
+344,345,55.71,Northwestern St.
+345,346,54.94,Chicago St.
+346,347,54.09,MVSU(Miss. Valley St.)
+347,348,53.98,Coppin St.
+348,349,52.39,Md.-Eastern Shore(UMES)
+349,350,51.7,Delaware St.
+350,351,51.32,Alabama A&M;
